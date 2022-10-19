@@ -1,0 +1,18 @@
+{
+  "name": "expressjsapp",
+  "version": "1.0.0",
+  "description": "Boiler plate Express.Js App",
+  "main": "index.js",
+  "scripts": {
+    "test": "funny"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5",
+    "path": "^0.12.7"
+  }
+}
